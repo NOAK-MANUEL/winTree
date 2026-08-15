@@ -1,6 +1,6 @@
 # wintree shell integration
 function wintree-cd
-        set -l dir (command winTree cd $argv)
+        set -l dir (command wintree cd $argv)
 
         if test -d "$dir"
             cd "$dir"

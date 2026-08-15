@@ -22,8 +22,7 @@
 
 ### 🎥 Video Demo
 
-[Watch winTree in action](./demo.mp4)
-
+<p align="center"> <img src="./demo.gif" alt="winTree demo" width="800"> </p>
 ---
 
 ## ✨ Features

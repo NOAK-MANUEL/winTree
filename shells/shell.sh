@@ -2,7 +2,7 @@
 wintree-cd() {
     local dir
 
-    dir="$(command winTree cd "$@")"
+    dir="$(command wintree cd "$@")"
 
     if [[ -d "$dir" ]]; then
         cd -- "$dir"
